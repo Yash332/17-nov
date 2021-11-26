@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*background-color: #0d2919;*/
+}
+
+.one{
+    width: 0px;
+    height: 0px;
+    border: 150px;
+    border-radius: 50%;
+    border-color: black;
+    border-style: solid;
+    border-bottom-color: white;
+    border-right-color: #1e3a4bb7;
+    border-top-color: #1c0c3a;
+    border-left-color: #441f14;
+    margin-left: 40%;
+    margin-top: 15%;
+}
